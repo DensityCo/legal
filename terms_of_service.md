@@ -103,7 +103,7 @@ The Company grants You a limited, non-exclusive, non-assignable, non-transferabl
 
 8.2. Prices are subject to change upon 30 days notice. You accept any price changes by continuing to use the Service.
 
-9. Disclaimer of Warranty. Limitation of Liability & Indemnification
+## 9. Disclaimer of Warranty. Limitation of Liability & Indemnification
 
 9.1. The Company does not warrant that (i) the Service will meet your specific requirements or expectations, (ii) the Service will be uninterrupted, timely, secure, or error-free, (iii) the Service will be accurate or reliable, and (iv) any errors in the Service will be corrected.
 
